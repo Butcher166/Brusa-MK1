@@ -5,3 +5,10 @@ Brusa is as of today 1/29/2026 nearly in middle of production, we still dont hav
 and a bit of the electronics are built too.
 With this sentence i want to give credit to our fellow designers from Voron (They are waaaay out of our league but we still consider them as our fellows because what they are trying to do for the community and i hope we can once become as helpfull as them :D)
 for using their Voron switchwire skirts parts and we plan in future to use their modified StealthBurner Toolhead.
+
+*Disclaimer*
+Print this at your own risk, seriously if you burn your place down or spend money and realize this project is bad, well that aint cuz of me, you tried to build it.
+However if you succeed building this monstrosity feel free to share this. If you post on instagram tag @kerlitosmtj thank you for giving time to take a look at this project.
+
+Happy printing  
+-M
