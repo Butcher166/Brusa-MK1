@@ -12,3 +12,6 @@ However if you succeed building this monstrosity feel free to share this. If you
 
 Happy printing  
 -M
+
+Bill of materials :
+https://soslovo-my.sharepoint.com/:x:/g/personal/kerl_m_soslovo_cz/IQDjMgKIPjEZTq9KC__wWIUzASSqL2lINrJp_GLwblNUvv0?e=phrNRQ
